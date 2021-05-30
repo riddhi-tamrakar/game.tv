@@ -1,0 +1,21 @@
+{
+    "select_language": "言語を選択する",
+    "login": "ログイン",
+    "login_subtitle": "資格情報を使用してログインします",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "username_hint": "ここにユーザー名を入力します",
+    "password_hint": "ここにパスワードを入力してください",
+    "username_validation_error": "ユーザー名を空にすることはできません",
+    "password_validation_error": "パスワードを空にすることはできません",
+    "invalid_credentials": "ユーザー名および/またはパスワードが正しくありません",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "field_min_length_validation_error": "フィールドは3文字以上である必要があります",
+    "field_max_length_validation_error": "フィールドは最大10文字をサポートできます",
+    "teammates_played": "チームメイトがプレイ",
+    "teammates_won": "チームメイトが勝ちました",
+    "winning_percentage": "勝率",
+    "recommeded_for_you": "あなたにおすすめ",
+    "ratings" : "評価"
+}

@@ -1,0 +1,21 @@
+{
+    "select_language": "Select language",
+    "login": "Login",
+    "login_subtitle": "Log in with your credentials",
+    "username": "Username",
+    "password": "Password",
+    "username_hint": "Enter the username here",
+    "password_hint": "Enter the password here",
+    "username_validation_error": "Username can't be empty",
+    "password_validation_error": "Password can't be empty",
+    "invalid_credentials": "Username and / or password incorrect",
+    "settings": "Settings",
+    "logout": "Logout",
+    "field_min_length_validation_error": "The field must be at least 3 characters long",
+    "field_max_length_validation_error": "The field can support up to 11 characters",
+    "teammates_played": "Teammates played",
+    "teammates_won": "Teammates won",
+    "winning_percentage": "Winning percentage",
+    "recommeded_for_you": "Recommended for you",
+    "ratings": "Ratings"
+}
