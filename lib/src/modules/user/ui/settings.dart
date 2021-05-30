@@ -80,7 +80,7 @@ class _SettingsPageState extends State<SettingsPage> {
           children: [
             ValueListenableBuilder(
               builder: (BuildContext context, String value, Widget child) {
-                return Text("${_currentLanguage.value}",
+                return Text("${_currentLanguage.value ?? ""}",
                     style: Theme.of(context).textTheme.subtitle1.copyWith(
                         color: Theme.of(context).colorScheme.secondary));
               },
